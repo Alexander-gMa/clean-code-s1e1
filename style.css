@@ -129,11 +129,11 @@ input#new-task {
     align-items: center;
 }
 
-.container__item>* {
+.container__item > * {
     vertical-align: middle;
 }
 
-.container__item>.checkbox__input {
+.container__item > .checkbox__input {
     margin: 0 10px;
 }
 
@@ -144,7 +144,7 @@ input#new-task {
     width: 226px;
 }
 
-li>.task_input {
+li > .task_input {
     width: 226px;
 }
 
